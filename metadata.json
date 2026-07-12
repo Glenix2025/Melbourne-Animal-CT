@@ -1,0 +1,6 @@
+{
+  "name": "Melbourne Animal CT - Sales Demo",
+  "description": "A highly polished sales demo website and rule-based Pawsy chatbot for Melbourne Animal CT clinic, showcasing veterinary CT scanning services for pet owners and referring vets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
